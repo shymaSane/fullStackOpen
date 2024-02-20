@@ -42,6 +42,6 @@ PUT http://localhost:4000/api/persons/65b12f9bdce4021efb58adb3
 content-type: application/json
 
 {
-     "name": "Mary Poppendieck",
-     "number": "39-23-6423122"
+     "name": "Ma",
+     "number": "3955-6423122"
    }
